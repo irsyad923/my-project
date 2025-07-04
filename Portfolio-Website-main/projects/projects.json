@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Dreams Hotel Booking Website",
+    "desc": "Sebuah website pemesanan hotel lengkap dengan fitur login, pencarian kamar, galeri, dan sistem booking. Dibangun menggunakan HTML, CSS, JavaScript, dan PHP dengan MySQL.",
+    "image": "dreamshotel",
+    "category": "web",
+    "links": {
+      "view": "https://example.com/dreams-hotel", 
+      "code": "https://github.com/username/dreams-hotel-booking"
+    }
+  },
+  {
+    "name": "Aplikasi Berita Android",
+    "desc": "Aplikasi Android untuk membaca berita dari berbagai kategori secara realtime. Dibangun menggunakan Java, XML, dan konsumsi API berita dengan Retrofit. Data ditampilkan dengan RecyclerView.",
+    "image": "newsappandroid",
+    "category": "android",
+    "links": {
+      "view": "https://play.google.com/store/apps/details?id=example.newsapp",
+      "code": "https://github.com/username/android-news-app"
+    }
+  }
+]
